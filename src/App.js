@@ -21,7 +21,7 @@ function App() {
       <ConnectWallet 
       modalSize="compact"
       theme="dark"
-      modalTitle="Login"
+      modalTitle="Login Now"
       btnTitle="Connect"
        modalTitleIconUrl=""
       dropdownPosition={{
